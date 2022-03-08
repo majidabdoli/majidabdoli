@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @majidabdoli
 - 👀 I’m interested in IoT and ML
 - 🌱 I’m currently learning TinyML
-- 💞️ I’m looking to collaborate on DNN Compression
+- 💞️ I’m looking to collaborate on DNN Compression for IoT Node (constrained devices)
 - 📫 How to reach me abdoli.majid@gmail.com
 
 <!---
